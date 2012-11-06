@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutonomousCar", "AutonomousCar\AutonomousCar\AutonomousCar.csproj", "{BB77CC12-E65F-492A-BCC9-BEC515B26C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutonomousCarContent", "AutonomousCar\AutonomousCarContent\AutonomousCarContent.contentproj", "{EB1C54D5-59E2-48AF-9504-7C4108EC100F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "AutonomousCar\Farseer Physics Engine 3.3 XNA\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugView XNA", "AutonomousCar\DebugView XNA\DebugView XNA.csproj", "{FC7845FA-13FE-4FF8-822A-A577F3F59B00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{193E90C9-F8AE-4CA9-BB07-95D9CCC51112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAGameConsole", "AutonomousCar\XNAGameConsole\XNAGameConsole.csproj", "{9FC39F64-284B-4D6B-B174-885F2D78BFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAGameConsoleContent", "AutonomousCar\XNAGameConsole\Content\XNAGameConsoleContent.contentproj", "{6AC6A745-7002-4B3B-9D19-755B85998E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeuristicCalculator", "AutonomousCar\HeuristicCalculator\HeuristicCalculator.csproj", "{7D7A6442-5466-4B99-8E49-F6F9866DBEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVisualizer", "AutonomousCar\RSVisualizer\RSVisualizer\RSVisualizer.csproj", "{6DEEE245-FCD0-4942-BB93-00EFD7D448EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVisualizerContent", "AutonomousCar\RSVisualizer\RSVisualizerContent\RSVisualizerContent.contentproj", "{8FFD49FF-17FC-42A5-9888-5E933574A3E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB77CC12-E65F-492A-BCC9-BEC515B26C40}.Debug|x86.ActiveCfg = Debug|x86
+		{BB77CC12-E65F-492A-BCC9-BEC515B26C40}.Debug|x86.Build.0 = Debug|x86
+		{BB77CC12-E65F-492A-BCC9-BEC515B26C40}.Release|x86.ActiveCfg = Release|x86
+		{BB77CC12-E65F-492A-BCC9-BEC515B26C40}.Release|x86.Build.0 = Release|x86
+		{EB1C54D5-59E2-48AF-9504-7C4108EC100F}.Debug|x86.ActiveCfg = Debug|x86
+		{EB1C54D5-59E2-48AF-9504-7C4108EC100F}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Debug|x86.ActiveCfg = Debug|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Debug|x86.Build.0 = Debug|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Release|x86.ActiveCfg = Release|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Release|x86.Build.0 = Release|x86
+		{9FC39F64-284B-4D6B-B174-885F2D78BFBD}.Debug|x86.ActiveCfg = Debug|x86
+		{9FC39F64-284B-4D6B-B174-885F2D78BFBD}.Debug|x86.Build.0 = Debug|x86
+		{9FC39F64-284B-4D6B-B174-885F2D78BFBD}.Release|x86.ActiveCfg = Release|x86
+		{9FC39F64-284B-4D6B-B174-885F2D78BFBD}.Release|x86.Build.0 = Release|x86
+		{6AC6A745-7002-4B3B-9D19-755B85998E91}.Debug|x86.ActiveCfg = Debug|x86
+		{6AC6A745-7002-4B3B-9D19-755B85998E91}.Release|x86.ActiveCfg = Release|x86
+		{7D7A6442-5466-4B99-8E49-F6F9866DBEDB}.Debug|x86.ActiveCfg = Debug|x86
+		{7D7A6442-5466-4B99-8E49-F6F9866DBEDB}.Debug|x86.Build.0 = Debug|x86
+		{7D7A6442-5466-4B99-8E49-F6F9866DBEDB}.Release|x86.ActiveCfg = Release|x86
+		{7D7A6442-5466-4B99-8E49-F6F9866DBEDB}.Release|x86.Build.0 = Release|x86
+		{6DEEE245-FCD0-4942-BB93-00EFD7D448EF}.Debug|x86.ActiveCfg = Debug|x86
+		{6DEEE245-FCD0-4942-BB93-00EFD7D448EF}.Debug|x86.Build.0 = Debug|x86
+		{6DEEE245-FCD0-4942-BB93-00EFD7D448EF}.Release|x86.ActiveCfg = Release|x86
+		{6DEEE245-FCD0-4942-BB93-00EFD7D448EF}.Release|x86.Build.0 = Release|x86
+		{8FFD49FF-17FC-42A5-9888-5E933574A3E7}.Debug|x86.ActiveCfg = Debug|x86
+		{8FFD49FF-17FC-42A5-9888-5E933574A3E7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

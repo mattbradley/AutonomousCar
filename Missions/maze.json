@@ -1,0 +1,8 @@
+{
+	"start": [145, 2, 1.57],
+	"goal": [8, 144, 1.57],
+	"environment": {
+		"resolution": 0.75,
+		"bitmap": "squaremaze.png"
+	}
+}

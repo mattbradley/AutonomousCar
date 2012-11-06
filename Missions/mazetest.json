@@ -1,0 +1,10 @@
+{
+	"start": [5, 5, 0],
+	"goal": [80, 123, 3.14159],
+	"resolution": 1,
+	"epsilon": 1.5,
+	"environment": {
+		"resolution": 0.75,
+		"bitmap": "mazetest.png"
+	}
+}

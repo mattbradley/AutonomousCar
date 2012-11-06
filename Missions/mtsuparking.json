@@ -1,0 +1,9 @@
+{
+	"start": [100, 125, 0],
+	"goal": [101, 27, -3.14159],
+	"epsilon": 2,
+	"environment": {
+		"resolution": 0.8,
+		"bitmap": "mtsuparking.png"
+	}
+}

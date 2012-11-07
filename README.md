@@ -90,3 +90,11 @@ mission is restarted or a new mission is loaded.
 - 0: Restart the current mission
 - Escape: Open or close the simulator console
 - Shift-Escape: Exit the simulator
+
+License
+-------
+
+Copyright (c) 2012 Matt Bradley
+
+This software is freely distributable under the terms of the
+[MIT License](http://www.opensource.org/licenses/MIT).

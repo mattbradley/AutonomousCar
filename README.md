@@ -5,8 +5,8 @@ This project is the simulation implemented for my master's thesis: Path
 Planning and Path Following for an Autonomous Car. It is written in C# with the
 XNA game engine using Farseer Physics. This project was developed using Visual
 Studio 2010 with Service Pack 1. You must also have [XNA Game Studio 4.0]
-(http://www.microsoft.com/en-us/download/details.aspx?id=23714#overview) in
-order to compile and run the simulation.
+(http://www.microsoft.com/en-us/download/details.aspx?id=23714) in order to
+compile and run the simulation.
 
 Getting Started with the Simulator
 ----------------------------------
